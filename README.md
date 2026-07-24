@@ -113,19 +113,19 @@ This application enables business users to:
 
 ### Home
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Restaurant Q&A
 
-![Restaurant](screenshots/restaurant_qa.png)
+![Restaurant](screenshots/Restaurant_QA.png)
 
 ### Orders Q&A
 
-![Orders](screenshots/orders_qa.png)
+![Orders](screenshots/Orders_QA.png)
 
 ---
 
